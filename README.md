@@ -1,7 +1,6 @@
-#escenarioapache
+#escenarioApache
 
-#En este contenedor instalaremos el servidor apache junto con php
+#Contenedor con apache2 y php.
 
-#Una vez hayas descargado este repositorio con 'git clone', solo necesitarás usar el comando 'docker-compose up -d' para levantar este servicio
+#Una vez descargado el repositorio, ejecuta la orden 'docker-compose up -d' para levantar el contenedor.
 
-#Ana
